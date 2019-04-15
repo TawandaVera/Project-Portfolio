@@ -1,0 +1,19 @@
+
+This project is built on Windows 10 Pro(64Bit) using Spyder 3.1.4 IDLE  and Python 3.6.1
+
+
+Install Python 3.6.(Installed Python from source, with an installer from python.org, or via Homebrew which should already have pip)
+
+If pip isn’t already installed, then first try to bootstrap it from the standard library: python -m ensurepip --default-pip
+
+Install matplotlib which will come with numpy and scipy (pip install matplotlib)
+
+Install pandas_datareader (pip install pandas_datareader)
+
+
+then run MiniProject2.py
+
+The Solution design is in Solution Design.docx
+
+The output files run on my computer are in the miniproject2output.html 
+
